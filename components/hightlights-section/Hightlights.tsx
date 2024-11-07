@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Container from '../Container';
 import { HighlightsType } from '@/type';
 import Link from 'next/link';

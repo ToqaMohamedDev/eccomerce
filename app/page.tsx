@@ -15,6 +15,6 @@ export default function Home() {
 }
 /*
 git add .
-git commit -m "first commit"
+git commit -m "first1"
 git push -u origin main
 */
